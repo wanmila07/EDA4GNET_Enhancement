@@ -1,0 +1,6 @@
+py4j==0.10.9.7
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
